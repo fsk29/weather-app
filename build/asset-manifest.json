@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b23b0007.css",
+    "main.js": "/static/js/main.964188cd.js",
+    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
+    "static/media/snow.png": "/static/media/snow.9957456da0445490c376.png",
+    "static/media/centigrade.png": "/static/media/centigrade.e37c27c5236a2e15ff75.png",
+    "static/media/rain.png": "/static/media/rain.5380eba1128fa19c326f.png",
+    "static/media/temperature.png": "/static/media/temperature.d264c6856d9a5ab61809.png",
+    "static/media/thermometer.png": "/static/media/thermometer.1e1ed26441d2cc3eeb7d.png",
+    "static/media/storm.png": "/static/media/storm.34ba1304792a31b7d163.png",
+    "static/media/hot.png": "/static/media/hot.033aa1d011b0bd74d75f.png",
+    "static/media/cloud.png": "/static/media/cloud.edd3b1ebd2e8bad4842d.png",
+    "static/media/sun.png": "/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/cloudy.png": "/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/fahrenheit.png": "/static/media/fahrenheit.56ebcf1b92860588ed87.png",
+    "index.html": "/index.html",
+    "main.b23b0007.css.map": "/static/css/main.b23b0007.css.map",
+    "main.964188cd.js.map": "/static/js/main.964188cd.js.map",
+    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23b0007.css",
+    "static/js/main.964188cd.js"
+  ]
+}
