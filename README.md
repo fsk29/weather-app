@@ -2,11 +2,6 @@
 
 ---
 
-[Try weather app](https://weather-app-515.pages.dev/)
-
-![](src/assets/weatherapp.png)
-
----
 
 ## Dependencies
 
